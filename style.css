@@ -1,0 +1,74 @@
+img {
+  width: 100%;
+}
+
+.my-button {
+  background-image: linear-gradient(180deg, navy, blue);
+  border-radius: 10px;
+}
+.custom-style {
+  background-color: #cec7c3;
+}
+
+.my-logo img {
+  width: 304px;
+  float: left;
+  margin-top: 31px;
+}
+.panda-card {
+  border: 0;
+}
+.panda-card-footer {
+  background-color: white;
+  border: 0;
+  position: relative;
+}
+.categories img {
+  width: 100px;
+}
+
+.bg-photo {
+  background-color: #f1f1f1 !important;
+  border-radius: 10px;
+}
+.formal-shoes {
+  background-color: white;
+  border: 0px;
+}
+.button-1 {
+  position: absolute;
+  margin: auto;
+  top: 5px;
+  right: 0;
+  padding: 14px 26px;
+  margin-right: 8px;
+}
+.shoeas-heading {
+  margin: 4px;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+h5 {
+  color: #363958;
+  font-size: 24px;
+}
+h4 {
+  color: #fa804c;
+  font-size: 35px;
+}
+.text-bgc {
+  background-color: #ffffff;
+  border: 0px;
+}
+
+}
+h3 {
+  color: #363958;
+  font-size: 10px;
+}
+.p-tag {
+  font-size: 14px;
+  margin-top: 18%;
+  color: #3e3e3e;
+}
